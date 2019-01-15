@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
   groceries.each_value {|value| puts value}
-  binding.binding.pry
+  binding.pry
 groceries
 
 end
